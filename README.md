@@ -1,2 +1,3 @@
 # Credit-Card-Fraud-transaction-Detection
-initial commit
+Identifying fraudulent credit card transactions.
+
